@@ -1,4 +1,4 @@
 # test
-#!/use/bin/perl
+#!/usr/bin/perl
 
 
